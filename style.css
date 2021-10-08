@@ -1,0 +1,17 @@
+.presentation {
+  list-style-type: none;
+}
+
+.date {
+  font-weight: bold;
+}
+nav {
+  border: 1px solid black;
+  background-color: purple;
+}
+header {
+  background-color: palevioletred;
+}
+section {
+  background-color: palevioletred;
+}
